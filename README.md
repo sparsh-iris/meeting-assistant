@@ -1,2 +1,2 @@
-# meeting-assistant
-Calendar Meeting Assistant
+# calendar-meeting-assistant
+REST API's for calendar meeting assistant.
